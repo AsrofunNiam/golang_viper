@@ -1,0 +1,17 @@
+{
+    "app" : {
+        "name" : "golang_viper",
+        "version": "1.0.0",
+        "author": "Asrofun Niam"
+
+    },
+    "database" : {
+        "port": 8081,
+        "port_db": 3306,
+        "host_db" : "localhost",
+        "password_db": "yourpassword",
+        "user_db":"root",
+        "database_db" : "your_db",
+        "show_sql": true
+    }
+}

@@ -1,0 +1,6 @@
+PORT=8081
+PORT_DB=3306
+HOST_DB=localhost
+PASSWORD_DB=yourpassword
+USER_DB=root
+DATABASE_DB=your_db 

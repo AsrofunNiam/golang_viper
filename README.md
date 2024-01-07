@@ -1,10 +1,12 @@
-> ## Viper 
-> read documentation https://github.com/spf13/viper
+> ## Documentation
+> 
+* testify https://github.com/stretchr/testify
+* viper https://github.com/spf13/viper 
 
 ## Detail repository
  
 * setting defaults
-* reading from JSON,.ENV
+* reading from JSON, ENV
 * live watching and re-reading of config files (optional)
 * reading from environment variables
 * reading from remote config systems (etcd or Consul), and watching changes

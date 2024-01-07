@@ -19,3 +19,16 @@
 ```shell
 go get github.com/stretchr/testify 
 go get github.com/spf13/viper
+
+```
+
+## Structure Project 
+ 
+ - project_root
+ - configuration
+    - .env
+    - config.json
+    - configuration.go
+    - configuration_test.go
+
+
